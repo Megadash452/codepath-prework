@@ -1,10 +1,10 @@
-# Android Prework - *Name of App Here*
+# Android Prework - *HelloWorld*
 
-Submitted by: **Your Name Here**
+Submitted by: **Martin Molina**
 
-**Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**HelloWorld** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
@@ -26,17 +26,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with Gnome screencast tool.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Image would not show at first so had ot create a new android project and it worked.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2022 Martin Molina
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
